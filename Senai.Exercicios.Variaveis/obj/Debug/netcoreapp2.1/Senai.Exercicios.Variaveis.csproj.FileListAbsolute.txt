@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\bin\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Variaveis\obj\Debug\netcoreapp2.1\Senai.Exercicios.Variaveis.pdb

@@ -22,6 +22,7 @@ namespace Senai.Operadores.Exercicio3
             byte produto5 = Convert.ToByte(Console.ReadLine());
 
             int soma = produto1 + produto2 + produto3 + produto4 + produto5;
+
             int media = soma / 5;
             Console.WriteLine($"A média dos produtos é: { media }");
         }
