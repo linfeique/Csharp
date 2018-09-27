@@ -21,7 +21,11 @@ namespace Senai.Operadores.Exercicios5
             int em = (qMin  + qMax) / 2;
             Console.WriteLine($"O estoque médio é: {em}");
 
-            int ct_em = ;
+            float ct_em = p * em;
+            Console.WriteLine($"O custo total do produto considerando o estoque médio é: R$ { ct_em },00");
+
+            float ct_ea = p * ea;
+            Console.WriteLine($"O custo total do produto considerando o estoque atual é: R$ { ct_ea },00");
         }
     }
 }

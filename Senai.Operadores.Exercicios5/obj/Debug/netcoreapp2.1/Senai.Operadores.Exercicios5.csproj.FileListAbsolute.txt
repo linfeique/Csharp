@@ -1,0 +1,11 @@
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\bin\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.deps.json
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\bin\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.runtimeconfig.json
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\bin\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.runtimeconfig.dev.json
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\bin\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.dll
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\bin\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.pdb
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.csprojAssemblyReference.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.AssemblyInfoInputs.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.AssemblyInfo.cs
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.dll
+C:\wamp64\www\Projetos\Csharp\Senai.Operadores.Exercicios5\obj\Debug\netcoreapp2.1\Senai.Operadores.Exercicios5.pdb
