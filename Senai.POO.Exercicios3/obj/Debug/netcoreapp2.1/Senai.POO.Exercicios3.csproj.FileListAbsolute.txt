@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\bin\Debug\netcoreapp2.1\Senai.POO.Exercicios3.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\bin\Debug\netcoreapp2.1\Senai.POO.Exercicios3.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\bin\Debug\netcoreapp2.1\Senai.POO.Exercicios3.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\bin\Debug\netcoreapp2.1\Senai.POO.Exercicios3.dll
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\bin\Debug\netcoreapp2.1\Senai.POO.Exercicios3.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.dll
+C:\Users\44846245837\Desktop\Programação\Senai.POO.Exercicios3\obj\Debug\netcoreapp2.1\Senai.POO.Exercicios3.pdb
