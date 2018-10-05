@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\bin\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\bin\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\bin\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\bin\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\bin\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.DoWhile\obj\Debug\netcoreapp2.1\Senai.Exercicios.DoWhile.pdb
