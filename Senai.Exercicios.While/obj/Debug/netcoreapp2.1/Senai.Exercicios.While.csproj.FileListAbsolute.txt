@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\bin\Debug\netcoreapp2.1\Senai.Exercicios.While.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\bin\Debug\netcoreapp2.1\Senai.Exercicios.While.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\bin\Debug\netcoreapp2.1\Senai.Exercicios.While.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\bin\Debug\netcoreapp2.1\Senai.Exercicios.While.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\bin\Debug\netcoreapp2.1\Senai.Exercicios.While.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While\obj\Debug\netcoreapp2.1\Senai.Exercicios.While.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\Senai.Operadores.Exercicios7.csproj",
+      "projectUniqueName": "c:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\Senai.Operadores.Exercicios7.csproj",
       "projectName": "Senai.Operadores.Exercicios7",
-      "projectPath": "C:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\Senai.Operadores.Exercicios7.csproj",
+      "projectPath": "c:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\Senai.Operadores.Exercicios7.csproj",
       "packagesPath": "C:\\Users\\cliente\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\obj\\",
+      "outputPath": "c:\\wamp64\\www\\Projetos\\Csharp\\Senai.Operadores.Exercicios7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

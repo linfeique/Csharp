@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\bin\Debug\netcoreapp2.1\Senai.Exercicios.While2.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\bin\Debug\netcoreapp2.1\Senai.Exercicios.While2.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\bin\Debug\netcoreapp2.1\Senai.Exercicios.While2.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\bin\Debug\netcoreapp2.1\Senai.Exercicios.While2.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\bin\Debug\netcoreapp2.1\Senai.Exercicios.While2.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.While2\obj\Debug\netcoreapp2.1\Senai.Exercicios.While2.pdb

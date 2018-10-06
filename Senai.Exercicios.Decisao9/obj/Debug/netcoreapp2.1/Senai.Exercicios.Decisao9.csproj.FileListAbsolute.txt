@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\bin\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\bin\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\bin\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\bin\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\bin\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Decisao9\obj\Debug\netcoreapp2.1\Senai.Exercicios.Decisao9.pdb
