@@ -10,7 +10,6 @@ namespace Senai.Exercicios.DoWhile3 {
             Console.WriteLine ("Insire o valor do dividendo: ");
             float dividendo = float.Parse (Console.ReadLine ());
 
-
             while (divisor == 0) {
                 Console.WriteLine ("Insira um valor diferente de zero para o divisor: ");
                 divisor = float.Parse (Console.ReadLine ());
@@ -21,10 +20,6 @@ namespace Senai.Exercicios.DoWhile3 {
                 contador++;
             } while (dividendo > 0);
 
-            if (dividendo < 0){
-                dividendo = dividendo - 1;
-            }
-            
             Console.WriteLine ($"O resultado da divisão é: {contador}");
         }
     }
