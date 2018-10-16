@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\bin\Debug\netcoreapp2.1\Senai.For.Exemplo4.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\bin\Debug\netcoreapp2.1\Senai.For.Exemplo4.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\bin\Debug\netcoreapp2.1\Senai.For.Exemplo4.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\bin\Debug\netcoreapp2.1\Senai.For.Exemplo4.dll
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\bin\Debug\netcoreapp2.1\Senai.For.Exemplo4.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.dll
+C:\Users\44846245837\Desktop\Programação\Senai.For.Exemplo4\obj\Debug\netcoreapp2.1\Senai.For.Exemplo4.pdb

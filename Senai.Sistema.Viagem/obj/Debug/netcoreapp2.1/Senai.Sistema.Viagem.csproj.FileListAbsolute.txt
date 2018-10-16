@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\bin\Debug\netcoreapp2.1\Senai.Sistema.Viagem.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\bin\Debug\netcoreapp2.1\Senai.Sistema.Viagem.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\bin\Debug\netcoreapp2.1\Senai.Sistema.Viagem.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\bin\Debug\netcoreapp2.1\Senai.Sistema.Viagem.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\bin\Debug\netcoreapp2.1\Senai.Sistema.Viagem.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Sistema.Viagem\obj\Debug\netcoreapp2.1\Senai.Sistema.Viagem.pdb
