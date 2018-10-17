@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\bin\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\bin\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\bin\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\bin\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\bin\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Classes.Array\obj\Debug\netcoreapp2.1\Senai.Exercicios.Classes.Array.pdb

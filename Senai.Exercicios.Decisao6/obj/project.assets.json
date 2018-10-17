@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\Senai.Exercicios.Decisao6.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\Senai.Exercicios.Decisao6.csproj",
       "projectName": "Senai.Exercicios.Decisao6",
-      "projectPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\Senai.Exercicios.Decisao6.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\Senai.Exercicios.Decisao6.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

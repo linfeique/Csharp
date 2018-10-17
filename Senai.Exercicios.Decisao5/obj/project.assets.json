@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\Senai.Exercicios.Decisao5.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\Senai.Exercicios.Decisao5.csproj",
       "projectName": "Senai.Exercicios.Decisao5",
-      "projectPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\Senai.Exercicios.Decisao5.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\Senai.Exercicios.Decisao5.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Decisao5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

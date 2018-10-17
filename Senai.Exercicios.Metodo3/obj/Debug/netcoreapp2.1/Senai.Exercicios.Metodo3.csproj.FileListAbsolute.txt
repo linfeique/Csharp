@@ -1,0 +1,11 @@
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\bin\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.deps.json
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\bin\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.runtimeconfig.json
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\bin\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.runtimeconfig.dev.json
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\bin\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.dll
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\bin\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.pdb
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.csprojAssemblyReference.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.AssemblyInfoInputs.cache
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.AssemblyInfo.cs
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.dll
+C:\wamp64\www\Projetos\Csharp\Senai.Exercicios.Metodo3\obj\Debug\netcoreapp2.1\Senai.Exercicios.Metodo3.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+using Senai.Sistema.Viagem.classes;
 
 namespace Senai.Sistema.Viagem
 {
@@ -6,10 +7,8 @@ namespace Senai.Sistema.Viagem
     {
         static void Main(string[] args)
         {
-            int resposta, cont = 0, contE;
-            int[] numPassagem = new int[2];
-            string[] nomePassageiro = new string[2];
-            DateTime[] dataVoo = new DateTime[2];
+            int resposta, cont = 0, contE = 0;
+            Passagem[] passagens = new Passagem[3];
 
             do{
                 Console.WriteLine("--------- Digite uma opção ---------");
@@ -20,13 +19,14 @@ namespace Senai.Sistema.Viagem
                 switch (resposta)
                 {
                     case 1:
-                        if (cont < 2){
+                        if (cont < 3){
+                            passagens[cont] = new Passagem();
                             Console.WriteLine("Digite o nome do passageiro");
-                            nomePassageiro[cont] = Console.ReadLine();
+                            passagens[cont].NomePassageiro = Console.ReadLine();
                             Console.WriteLine("Digite o número da passagem");
-                            numPassagem[cont] = int.Parse(Console.ReadLine());
+                            passagens[cont].Numero = int.Parse(Console.ReadLine());
                             Console.WriteLine("Digite a data do voo (dd/mm/aaaa)");
-                            dataVoo[cont] = DateTime.Parse(Console.ReadLine());
+                            passagens[cont].Data = DateTime.Parse(Console.ReadLine());
                             cont++;
                         }else{
                             Console.WriteLine("Limite Excedido");
@@ -34,12 +34,11 @@ namespace Senai.Sistema.Viagem
                     break;
 
                     case 2:
-                        contE = 0;
                         while (contE < cont){
                             Console.WriteLine($"--- Passageiro {contE+1}");
-                            Console.WriteLine($"Nome: {nomePassageiro[contE]}");
-                            Console.WriteLine($"Nº Passagem: {numPassagem[contE]}");
-                            Console.WriteLine($"Data: {dataVoo[contE].ToShortDateString()}");
+                            Console.WriteLine($"Nome: {passagens[contE].NomePassageiro}");
+                            Console.WriteLine($"Nº Passagem: {passagens[contE].Numero}");
+                            Console.WriteLine($"Data: {passagens[contE].Data.ToShortDateString()}");
                             contE++;
                         }
                     break;

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\Senai.Exercicios.Variaveis.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\Senai.Exercicios.Variaveis.csproj",
       "projectName": "Senai.Exercicios.Variaveis",
-      "projectPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\Senai.Exercicios.Variaveis.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\Senai.Exercicios.Variaveis.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Exercicios.Variaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
