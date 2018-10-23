@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\bin\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\bin\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\bin\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\bin\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\bin\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Exercicios.Foreach\obj\Debug\netcoreapp2.1\Senai.Exercicios.Foreach.pdb

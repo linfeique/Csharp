@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\bin\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.deps.json
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\bin\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.runtimeconfig.json
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\bin\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\bin\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\bin\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.pdb
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.dll
+C:\Users\44846245837\Desktop\Programação\Senai.Projetos.Pizzaria\obj\Debug\netcoreapp2.1\Senai.Projetos.Pizzaria.pdb
