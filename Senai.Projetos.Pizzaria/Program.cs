@@ -288,7 +288,6 @@ namespace Projeto.Pizzaria.Classes {
                     }
                 }
             }
-            Console.Clear ();
             MenuPizzaria ();
         }
 
@@ -296,8 +295,10 @@ namespace Projeto.Pizzaria.Classes {
             int preco_total = 0;
 
             for (int i = 0; i < qtdProdutos; i++) {
-                produtos[i] = new Produtos ();
-                preco_total = produtos[i].Preço + produtos[i + 1].Preço;
+                if(produtos[i] != null){
+                    produtos[i] = new Produtos ();
+                    preco_total = produtos[i].Preço + produtos[i + 1].Preço;
+                }
             }
 
             System.Console.WriteLine($"O valor total de preços é: R$ {preco_total},00");
