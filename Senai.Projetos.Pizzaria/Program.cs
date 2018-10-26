@@ -7,6 +7,8 @@ namespace Projeto.Pizzaria.Classes {
         static int qtdProdutos = 0;
         static bool arroba = false;
         static bool senha = false;
+        static bool produto_encontrado = false;
+
         static Cadastro[] usuarios = new Cadastro[10];
         static Produtos[] produtos = new Produtos[10];
         static void Main (string[] args) {
@@ -223,7 +225,7 @@ namespace Projeto.Pizzaria.Classes {
             produtos[qtdProdutos].Descricao = Console.ReadLine ();
 
             System.Console.WriteLine ("Informe o preço do produto: ");
-            produtos[qtdProdutos].Preço = int.Parse (Console.ReadLine ());
+            produtos[qtdProdutos].Preco = int.Parse (Console.ReadLine ());
 
             System.Console.WriteLine ("Informe entre [0 - 1] (pizza e bebida, respectivamente)");
             int resposta_categoria = int.Parse (Console.ReadLine ());
@@ -249,8 +251,7 @@ namespace Projeto.Pizzaria.Classes {
 
         static void ListarProdutos () {
             Console.Clear ();
-            bool produto_encontrado = false;
-
+            
             System.Console.WriteLine ("Digite o id do produto que você quer mostrar: ");
             int produto_id = int.Parse (Console.ReadLine ());
 
@@ -260,9 +261,10 @@ namespace Projeto.Pizzaria.Classes {
                         System.Console.WriteLine ($"Você escolheu o produto {item.Nome}");
                         System.Console.WriteLine ($"Descrição: {item.Descricao}");
                         System.Console.WriteLine ($"ID: {item.Id}");
-                        System.Console.WriteLine ($"Preço: R$ {item.Preço},00");
+                        System.Console.WriteLine ($"Preço: R$ {item.Preco},00");
                         System.Console.WriteLine ($"Data de criação: {item.DataDeCriacao}");
                         produto_encontrado = true;
+                        break;
                     }
 
                     if (!produto_encontrado) {
@@ -294,14 +296,16 @@ namespace Projeto.Pizzaria.Classes {
         static void ExibirTotal () {
             int preco_total = 0;
 
-            for (int i = 0; i < qtdProdutos; i++) {
-                if(produtos[i] != null){
-                    produtos[i] = new Produtos ();
-                    preco_total = produtos[i].Preço + produtos[i + 1].Preço;
+            foreach (Produtos item in produtos){
+                if(item != null){
+                    preco_total += item.Preco;
                 }
             }
 
             System.Console.WriteLine($"O valor total de preços é: R$ {preco_total},00");
+            System.Console.WriteLine("\nAperte alguma tecla");
+            Console.ReadKey();
+            MenuPizzaria();
         }
     }
 }
