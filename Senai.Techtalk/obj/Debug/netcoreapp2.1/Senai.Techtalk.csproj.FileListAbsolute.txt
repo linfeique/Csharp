@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\bin\Debug\netcoreapp2.1\Senai.Techtalk.deps.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\bin\Debug\netcoreapp2.1\Senai.Techtalk.runtimeconfig.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\bin\Debug\netcoreapp2.1\Senai.Techtalk.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\bin\Debug\netcoreapp2.1\Senai.Techtalk.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\bin\Debug\netcoreapp2.1\Senai.Techtalk.pdb
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\obj\Debug\netcoreapp2.1\Senai.Techtalk.pdb
