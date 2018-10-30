@@ -1,71 +1,148 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using Senai.Techtalk.Classes;
 
-namespace Senai.Techtalk
-{
-    class Program
-    {
-        static Cadastro[] usuarios = new Cadastro[10];
-        static int qtdCadastros = 0;
-        static bool senha = false;
-        static bool email = false;
+namespace Senai.Techtalk {
+    class Program {
 
-        static void Main(string[] args)
-        {
+        static string leitura2;
+        static void Main (string[] args) {
+            int resposta = 0;
 
-            StreamWriter writer = new StreamWriter(@"C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\teste.txt"); 
-            StreamReader reader = new StreamReader(@"C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\teste.txt");
+            System.Console.WriteLine ("------ Bem-vindo ------");
 
+            if (File.Exists ("teste.txt")) {
+                using (StreamReader ler2 = new StreamReader ("teste.txt", true)) {
+                    leitura2 = ler2.ReadLine ();
+                    do {
+                        System.Console.WriteLine ("1- Cadastrar usuário");
+                        System.Console.WriteLine ("2- Efetuar login");
+                        System.Console.WriteLine ("0- Sair");
+                        resposta = int.Parse (Console.ReadLine ());
 
-            usuarios[qtdCadastros] = new Cadastro();
-            if (qtdCadastros < usuarios.Length)
-            {
-                do
-                {
-                    System.Console.WriteLine("Insira o nome do usuário a ser cadastrado: ");
-                    usuarios[qtdCadastros].Nome = Console.ReadLine();
-                    foreach (var item in usuarios)
-                    {
-                        if (item != null)
-                        {
-                            if (item.Nome == reader.ReadLine())
-                            {
-                                System.Console.WriteLine("Esse email já existe!!");
-                            }
-                            else
-                            {
-                                email = true;
+                        switch (resposta) {
+
+                            case 1:
+                                #region cadastro
+                                using (StreamWriter escrever = new StreamWriter ("teste.txt", true)) {
+                                    Console.WriteLine ("Qual o nome do usuário a ser cadastrado: ");
+                                    string nome = Console.ReadLine ();
+
+                                    if (leitura2.Contains (nome)) {
+                                        System.Console.WriteLine ("Usuário já cadastrado");
+                                        break;
+                                    } else {
+                                        escrever.Write (nome + ":");
+                                    }
+
+                                    Console.WriteLine ($"Qual a senha do {nome}:");
+                                    string senha = Console.ReadLine ();
+                                    escrever.WriteLine (senha);
+                                }
+                                #endregion
                                 break;
-                            }
-                        }
-                    }
-                } while (!email);
 
-                do
-                {
-                    System.Console.WriteLine("Insira a senha do usuário a ser cadastrado: ");
-                    usuarios[qtdCadastros].Senha = Console.ReadLine();
-                    foreach (var item in usuarios)
-                    {
-                        if (item != null)
-                        {
-                            if (item.Senha == reader.ReadLine())
-                            {
-                                System.Console.WriteLine("Essa senha já existe!!");
-                            }
-                            else
-                            {
-                                senha = true;
+                            case 2:
+                                string leitura;
+
+                                #region  
+                                using (StreamReader ler = new StreamReader ("teste.txt", true)) {
+                                    if (File.Exists ("teste.txt")) {
+                                        leitura = ler.ReadLine ();
+                                        Console.WriteLine ("Qual o nome do usuário: ");
+                                        string nome_login = Console.ReadLine ();
+
+                                        if (leitura.Contains (nome_login)) {
+                                            Console.WriteLine ($"Qual a senha do {nome_login}");
+                                            string senha_login = Console.ReadLine ();
+                                            if (leitura.Contains (senha_login)) {
+                                                System.Console.WriteLine ("Bem vindo ao sistema");
+                                                break;
+                                            } else {
+                                                System.Console.WriteLine ("Senha incorreta");
+                                            }
+                                        } else {
+                                            System.Console.WriteLine ("Email incorreto");
+                                        }
+                                    }
+                                }
+                                #endregion
                                 break;
-                            }
-                        }
-                    }
-                } while (!senha);
 
-                writer.WriteLine(usuarios[qtdCadastros].Nome +":"+ usuarios[qtdCadastros].Senha);
-                qtdCadastros++;
+                            case 0:
+
+                                break;
+
+                            default:
+                                System.Console.WriteLine ("Opção inválida");
+                                break;
+                        }
+                    } while (resposta != 0);
+                }
+            } else {
+                using (StreamWriter escrever = new StreamWriter ("teste.txt", true)) {
+                    do {
+                        System.Console.WriteLine ("1- Cadastrar usuário");
+                        System.Console.WriteLine ("2- Efetuar login");
+                        System.Console.WriteLine ("0- Sair");
+                        resposta = int.Parse (Console.ReadLine ());
+
+                        switch (resposta) {
+
+                            case 1:
+                                #region cadastroS
+                                    Console.WriteLine ("Qual o nome do usuário a ser cadastrado: ");
+                                    string nome = Console.ReadLine ();
+
+                                    if (leitura2.Contains (nome)) {
+                                        System.Console.WriteLine ("Usuário já cadastrado");
+                                        break;
+                                    } else {
+                                        escrever.Write (nome + ":");
+                                    }
+
+                                    Console.WriteLine ($"Qual a senha do {nome}:");
+                                    string senha = Console.ReadLine ();
+                                    escrever.WriteLine (senha);
+                                #endregion
+                                break;
+
+                            case 2:
+                                string leitura;
+
+                                #region  
+                                using (StreamReader ler = new StreamReader ("teste.txt", true)) {
+                                    if (File.Exists ("teste.txt")) {
+                                        leitura = ler.ReadLine ();
+                                        Console.WriteLine ("Qual o nome do usuário: ");
+                                        string nome_login = Console.ReadLine ();
+
+                                        if (leitura.Contains (nome_login)) {
+                                            Console.WriteLine ($"Qual a senha do {nome_login}");
+                                            string senha_login = Console.ReadLine ();
+                                            if (leitura.Contains (senha_login)) {
+                                                System.Console.WriteLine ("Bem vindo ao sistema");
+                                                break;
+                                            } else {
+                                                System.Console.WriteLine ("Senha incorreta");
+                                            }
+                                        } else {
+                                            System.Console.WriteLine ("Email incorreto");
+                                        }
+                                    }
+                                }
+                                #endregion
+                                break;
+
+                            case 0:
+
+                                break;
+
+                            default:
+                                System.Console.WriteLine ("Opção inválida");
+                                break;
+                        }
+                    } while (resposta != 0);
+                }
             }
         }
     }
