@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.POO.Exercicios\\Senai.POO.Exercicios.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.POO.Exercicios\\Senai.POO.Exercicios.csproj",
       "projectName": "Senai.POO.Exercicios",
-      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.POO.Exercicios\\Senai.POO.Exercicios.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.POO.Exercicios\\Senai.POO.Exercicios.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.POO.Exercicios\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.POO.Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

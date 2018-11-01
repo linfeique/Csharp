@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\bin\Debug\netcoreapp2.1\Senai.Word.deps.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\bin\Debug\netcoreapp2.1\Senai.Word.runtimeconfig.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\bin\Debug\netcoreapp2.1\Senai.Word.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\bin\Debug\netcoreapp2.1\Senai.Word.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\bin\Debug\netcoreapp2.1\Senai.Word.pdb
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\Senai.Word\obj\Debug\netcoreapp2.1\Senai.Word.pdb

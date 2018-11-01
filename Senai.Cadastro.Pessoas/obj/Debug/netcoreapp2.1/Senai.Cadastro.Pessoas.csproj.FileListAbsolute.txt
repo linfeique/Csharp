@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\bin\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.deps.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\bin\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.runtimeconfig.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\bin\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\bin\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\bin\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.pdb
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Cadastro.Pessoas\obj\Debug\netcoreapp2.1\Senai.Cadastro.Pessoas.pdb

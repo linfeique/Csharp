@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Projetos.Financeiro\\Senai.Projetos.Financeiro.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Projetos.Financeiro\\Senai.Projetos.Financeiro.csproj",
       "projectName": "Senai.Projetos.Financeiro",
-      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Projetos.Financeiro\\Senai.Projetos.Financeiro.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Projetos.Financeiro\\Senai.Projetos.Financeiro.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.Projetos.Financeiro\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Projetos.Financeiro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

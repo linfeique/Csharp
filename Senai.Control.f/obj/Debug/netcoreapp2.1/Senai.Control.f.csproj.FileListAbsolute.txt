@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\bin\Debug\netcoreapp2.1\Senai.Control.f.deps.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\bin\Debug\netcoreapp2.1\Senai.Control.f.runtimeconfig.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\bin\Debug\netcoreapp2.1\Senai.Control.f.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\bin\Debug\netcoreapp2.1\Senai.Control.f.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\bin\Debug\netcoreapp2.1\Senai.Control.f.pdb
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Techtalk\Senai.Control.f\obj\Debug\netcoreapp2.1\Senai.Control.f.pdb

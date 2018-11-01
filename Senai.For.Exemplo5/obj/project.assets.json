@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.For.Exemplo5\\Senai.For.Exemplo5.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.For.Exemplo5\\Senai.For.Exemplo5.csproj",
       "projectName": "Senai.For.Exemplo5",
-      "projectPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.For.Exemplo5\\Senai.For.Exemplo5.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.For.Exemplo5\\Senai.For.Exemplo5.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\44846245837\\Desktop\\Programação\\Senai.For.Exemplo5\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.For.Exemplo5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

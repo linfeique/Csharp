@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Sistema.Viagem\\Senai.Sistema.Viagem.csproj",
+      "projectUniqueName": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Sistema.Viagem\\Senai.Sistema.Viagem.csproj",
       "projectName": "Senai.Sistema.Viagem",
-      "projectPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Sistema.Viagem\\Senai.Sistema.Viagem.csproj",
+      "projectPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Sistema.Viagem\\Senai.Sistema.Viagem.csproj",
       "packagesPath": "C:\\Users\\44846245837\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44846245837\\Desktop\\Programação\\Senai.Sistema.Viagem\\obj\\",
+      "outputPath": "c:\\Users\\44846245837\\Desktop\\Csharp\\Senai.Sistema.Viagem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

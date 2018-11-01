@@ -1,0 +1,11 @@
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\bin\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.deps.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\bin\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.runtimeconfig.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\bin\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.runtimeconfig.dev.json
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\bin\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\bin\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.pdb
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.csprojAssemblyReference.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.csproj.CoreCompileInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.AssemblyInfoInputs.cache
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.AssemblyInfo.cs
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.dll
+C:\Users\44846245837\Desktop\Csharp\Senai.Compacta.Descompacta\obj\Debug\netcoreapp2.1\Senai.Compacta.Descompacta.pdb
