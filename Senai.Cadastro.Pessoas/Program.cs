@@ -25,7 +25,7 @@ namespace Senai.Cadastro.Pessoas
                 break;
 
                 case 3:
-                    usuarioView.Listar();
+                    
                 break;
 
                 default:

@@ -13,10 +13,18 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
             System.Console.WriteLine("--------- Bem-Vindo ---------");
             System.Console.WriteLine("1 - Cadastrar");
             System.Console.WriteLine("2 - Logar");
-            System.Console.WriteLine("3 - Listar");
             System.Console.WriteLine("0 - Sair");
+            System.Console.WriteLine("-----------------------------");
 
             System.Console.WriteLine("\nEscolha uma opção: ");
+        }
+
+        public void MenuFinanceiro(){
+            System.Console.WriteLine("--------- Bem-Vindo ao Menu Financeiro ---------");
+            System.Console.WriteLine("1- Cadastrar Transação");
+            System.Console.WriteLine("2- Extrato de transações total");
+            System.Console.WriteLine("3- Gerar Relatórios");
+            System.Console.WriteLine("0- Sair");
         }
 
         public bool Verificacao_Email(string email){
@@ -38,6 +46,7 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
         public void Cadastrar(){
             string email;
             string senha;
+            DateTime dataNascimento;
             bool senha_certa = false;
             bool email_certo = false;
 
@@ -68,6 +77,10 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
                         System.Console.WriteLine("Senha Inválida");
                     }
                 } while(!senha_certa);
+
+                System.Console.WriteLine("Informe sua data de nascimento (DD/MM/AAAA)");
+                dataNascimento = DateTime.Parse(Console.ReadLine());
+
             #endregion
 
             #region Controller
@@ -79,10 +92,10 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
                 usuarioViewModel.Nome = nome;
                 usuarioViewModel.Email = email;
                 usuarioViewModel.Senha = senha;
-                usuarioViewModel.DataCriacao = DateTime.Now;
+                usuarioViewModel.DataNascimento = dataNascimento;
 
                 using(StreamWriter escrever = new StreamWriter("usuarios.csv", true)){
-                        escrever.WriteLine($"{usuarioViewModel.Id};{usuarioViewModel.Nome};{usuarioViewModel.Email};{usuarioViewModel.Senha};{usuarioViewModel.DataCriacao}");
+                        escrever.WriteLine($"{usuarioViewModel.Id};{usuarioViewModel.Nome};{usuarioViewModel.Email};{usuarioViewModel.Senha};{usuarioViewModel.DataNascimento}");
                 }
 
                 System.Console.WriteLine("Usuário Cadastrado");
@@ -116,7 +129,7 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
 
                     if(Verificacao_Senha(senha_login) == true){
                         senha_certa = true;
-                        break;
+                        MenuFinanceiro();
                     } else{
                         System.Console.WriteLine("Senha Inválida");
                     }
@@ -136,19 +149,6 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
                 }
             #endregion
         }
-
-        public void Listar(){
-            
-            #region Controller
-                List<UsuarioViewModel> lsUsuarios = ListarUsuarios();
-            #endregion
-
-            #region View
-                foreach (UsuarioViewModel item in lsUsuarios){
-                    System.Console.WriteLine($"{item.Id} - {item.Nome} - {item.Email} - {item.DataCriacao}");
-                }
-            #endregion
-        }
     
         private List<UsuarioViewModel> ListarUsuarios(){
             #region Controller
@@ -164,7 +164,7 @@ namespace Senai.Cadastro.Pessoas.ViewsControlles
                     usuario.Nome = dados[1];
                     usuario.Email = dados[2];
                     usuario.Senha = dados[3];
-                    usuario.DataCriacao = DateTime.Parse(dados[4]);
+                    usuario.DataNascimento = DateTime.Parse(dados[4]);
                     lsUsuarios.Add(usuario);
                 }
 
